@@ -11,7 +11,7 @@ Cat-Lovers is not just another website; it's a sanctuary where feline aficionado
 ### Features
 - **Cat Gallery**: Dive into a vast collection of high-quality cat photos guaranteed to melt your heart and brighten your day.
 - **Educational Resources**: Explore informative articles, guides, and videos on cat care, behavior, health, and more, curated by experts in the field.
-- 
+  
 ### E2E Testing with Cypress
 At Cat-Lovers, we take the quality of our website seriously. We utilize Cypress for end-to-end (E2E) testing to ensure that every feature works seamlessly and provides an exceptional user experience. Our E2E testing suite covers critical functionalities, including:
 - Cats images and gallery
