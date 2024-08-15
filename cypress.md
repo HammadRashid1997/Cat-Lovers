@@ -143,7 +143,7 @@ Here are a few tricks and tips for you all if you wish to use cypress for E2E au
 
 * **Start with the Basic Functionality**
   
-  Always start writing with the basic functionas of the applications. They can be viewing the screen, checking the background color, viewing the title text, buttons and other icons. Move to the more complex functions after you are donw ith the basic ones.
+  Always start writing with the basic functions of the applications. They can be viewing the screen, checking the background color, viewing the title text, buttons and other icons. Move to the more complex functions after you are donw ith the basic ones.
   
 * **Perform a Manual QA**
   
