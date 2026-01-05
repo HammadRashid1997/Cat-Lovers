@@ -21,4 +21,3 @@ At Cat-Lovers, we take the quality of our website seriously. We utilize Cypress 
   
 ### How to Contribute
 We welcome contributions from passionate individuals who share our love for cats. Whether you're a seasoned developer, a talented designer, or simply a cat enthusiast with a keen eye for photography, there are plenty of ways to get involved. Fork the repository with yourself and make any suitable edits you wish to make. Create pull requests and I will sure review your code.
-
